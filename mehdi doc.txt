@@ -1,0 +1,237 @@
+﻿sefareshe folan asar be folan honarmand bashe ya in ke biad bezane be kolle honarmandan
+hengame sabte name honarmand soal mishe ke to che zamine hae sefareshi i shoma kar mikoni
+size bandi gheimat dare
+abaad teknik 
+to safhe hame gallery ha biam address o bezaram to ghesmate asli
+yek hafte mAsaln shmooma vaght dari in chiz o anjam bedi
+az in tarikh ke sefaresh midi ta in time 
+gallery time o addressesh i bezarim to safhe gallery ha
+hame gallery ha time darand - che rozi tatilan shanbe ha aksaran tatilan
+har honarmand az che sali shoro be kare herfei honari kare 
+chandta namayeshgah dashte va che namayeshgahai
+rate nabashe kollan 
+dislike ham nabashe 
+
+hame chi entekhabi bashe
+follow o like o comment o chat o friend
+exibition comment bezaram
+honarmand o follow mikonim
+asar o like mikonim o comment mizarim o share mikonim
+ketaba + data raje be naghashi wikipedia tor + tarif sabka
+1-Database :
+	category : id , top title, title
+		naghashi - > ( rang + tarahi ) miniator , caricator , carton , abrang , siah ghalam , tarahi , range roghan , 
+		honare hajm o mojassame -> asare felezi - sofal - sang - resin
+		music 
+		akkasi
+		sonnati -> monabat - ghalam zani - farsh - gilim - gabe baafi
+		khoshnevisi
+
+	exibitions:
+		id, title, date, opentime, description, gallery, URL google map
+		category , art-work - image
+
+	gallery :  
+		id ,  title, address, description, phone, logitude,latitude , opentime
+		image - exibition
+
+	artist :
+		id, biography, birthday year , city , user
+		category - awards - education - image
+
+	art_works :
+		id, title*, year, sign(true), state( true * v/h), ghab, canseen(true) , material, sabk, tecnique*, size*, price,artist
+		category - image
+
+	orders :
+		title , description, range gheimat, image
+
+	user :
+		first_name , last_name , email, phone 
+
+2-pages :
+	safhe homapage : 
+		ye slider - dar kenaresh chera artimazh - mesle on hotele 
+		https://tympanus.net/Development/ArticleIntroEffects/ -> scroll down -> avali behtare
+		https://tympanus.net/Development/ArrowNavigationStyles/ -> Multi Thumb ->slider
+		asare forokhte shode akhir 
+		projehae honarie anjam shode
+		nemone asatid o honarmandane barjaste site
+
+	safhe namayeshga majazi
+		faghat asar esmeshon bashe ba name khaleghe asar
+
+	safhe gallery ha
+
+	safhe har gallery
+		https://tympanus.net/Development/HoverEffectIdeas/index.html -> Layla -> charchob mindaze ro namayeshga
+
+	safhe artistha
+
+	safhe har artist
+		classtools.net/3d bendaze to ye otagh kara yaro ro
+		range divar o beshe avaz kard
+		mouse miad ro har asar etelaate asare ham neshon bede
+		https://tympanus.net/Development/HoverEffectIdeas/index2.html -> Winston -> comment ro axa
+
+	safhe har asar
+		beshe zoom kard
+		ye divar bashe beshe benazish on to
+		shabih saz
+
+	safhe har exibition
+
+	safhe har category
+		https://tympanus.net/Tutorials/SamsungGrid/index2.html -> asar o neshon bede
+		bad ye matalebi raje be on honar mojod bashe
+		bad beshe ona ro ham edit kard
+	safhe proje hae honari
+	safhe mosabeghe
+	safhe haraj ya mozayede
+		
+3- options :
+	panele class hae man bezarim , bad shagerda hast o dge chia bashe ????
+	bad ro har shagerd bezane betone hame data shageresh o bebine
+	1 safhe karae sefareshi
+	2 naghd asare honari o rate tavasote adatid barjeste ba tafkike name asatid
+	3 har asare honari o beshe ro them ha o divar hae mokhtelef bezani
+	4 comment o follow o notification
+	5 mosabeghe o club ke har ki biad eyne on naghashi bekeshi o artimazh stage -
+	6 foroshe material -
+	7 ham miim to sefareshe online miaim proje honari mizanim o bad honarmanda mian gheimat midan o darkhast midan
+	8 teather -
+	9 oskare asare honari -
+	10 kargahe amozeshi - toure naghashi - 
+	11 marja data e honari - lenzak.ir ya .com
+	12 marjae amozeshgahae keshvar - 
+	13 naghd mishe harfe honarmanda o asatid - comment mishe harfe adam mamolia
+	14 friend o chat -
+	15 music -
+	16 dastresi be asatid vase gozashtane nomrehashon -
+	17 foroshe alate mosighi + amozesh
+
+
+4 - effects :
+	+ini ke mehdi mige 
+		https://tympanus.net/Development/3DGalleryRoom/
+	for showing all images toghether 
+		https://tympanus.net/Tutorials/ThumbnailGridExpandingPreview/
+	showing 3d pictures :
+		https://tympanus.net/Development/PageTransitions/ ->room ->left or right
+	menu:
+		https://tympanus.net/Tutorials/ResponsiveRetinaReadyMenu/
+	loading
+		https://tympanus.net/Development/PseudoElementsAnimationsTransitions/index3.html
+	buttons like o rate
+		https://tympanus.net/Development/CreativeButtons/
+	for page artist ha badan :
+		https://tympanus.net/Development/DynamicGrid/index3.html -> Delayed transition
+	for modals:	SLIP FROM TOP
+		https://tympanus.net/Development/ModalWindowEffects/
+	for showing art-works : 2 & 6
+		https://tympanus.net/Development/GridLoadingEffects/index6.html
+	+slider moji
+		https://tympanus.net/Development/InteractiveParticlesSlideshow/
+	+book 
+		https://tympanus.net/Development/AnimatedBooks/
+	slider
+		https://tympanus.net/Development/ArrowNavigationStyles/ ->Multi Thumb
+
+	https://tympanus.net/Development/ArticleIntroEffects/ -> scroll down 
+		
+	navigation shiiik :
+		https://tympanus.net/Tutorials/CircularNavigation/
+
+	for links :
+		https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-1
+
+	some categories
+		https://tympanus.net/Development/3DEffectMobileShowcase/
+
+	modal :
+		https://www.w3schools.com/jquerymobile/tryit.asp?filename=tryjqmob_popup_image
+
+	https://tympanus.net/Tutorials/3DShadingWithBoxShadows
+	https://tympanus.net/Development/HoverEffectIdeas/index2.html
+		Winston ->for comments ro asare honari
+		Hera ->for comments ro asare honari
+		Terry
+
+		Layla ->1
+
+http://185.2.12.24:2222/HTM_FILE_UPLOAD?path=/domains/artimazh.com/public_html
+artimazh
+viewbug.com
+
+http://artibition.ir/
+qRavgW7628
+
+آی پی سرور:
+185.2.12.24
+
+
+دی ان اس های مرتبط :
+ir1.rayanegarco.com
+ir2.rayanegarco.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+google api key for 
+https://developers.google.com/maps/documentation/static-maps/
+AIzaSyDBSq8rewxWZ1v-UsQAp8rMymv3ctabn90
+
+IMAGE QUALITY
+
+14 mp or larger (5,300 x 2,650 px)
+2:1 image aspect ratio
+No gaps in image around horizon
+No significant stitching errors
+Adequate detail in light/dark areas
+Sharpness: no motion blur, in focus
+No distracting effects or filters
+/earn/
+
+CONNECTIVITY
+
+All connected 360 photos must maintain a clear line-of-sight
+Try shooting at 1 meter spacing indoors and every 3m outdoors
+To increase the chances that we can later connect to your content, extend your collection to a street
+
+https://www.google.com/intl/en/local/guides/ 
+theme
+
+
+
+
+
+
+porsfood
+
+09143540249
+farhadjon
+
+sepideh
+3739masoud3445
+
+systeme nobat dehi
+3d ba panele maghazeha
+
+https://www.instantstreetview.com/@35.692002,51.36443,-137.19h,5p,1z
